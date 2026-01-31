@@ -474,7 +474,7 @@ This project demonstrates block-level physical design implementation of a GPU su
 ```
 
 
- repo ignals:
+ This repo includes:
 
 * ✅ Real Innovus + Calibre experience
 * ✅ MCMM + power integrity awareness
