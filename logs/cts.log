@@ -1,0 +1,17 @@
+============================================================
+ Clock Tree Synthesis Log
+============================================================
+Clock Name      : core_clk
+Target Period   : 2.0 ns (500 MHz)
+
+CTS Results:
+ - Clock latency     : 310 ps
+ - Max skew          : 42 ps
+ - Insertion delay   : Balanced
+
+Post-CTS Timing:
+ - Setup violations  : 0
+ - Hold violations   : 0
+
+CTS completed successfully.
+============================================================

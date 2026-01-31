@@ -1,0 +1,20 @@
+============================================================
+ Signoff Log
+============================================================
+Final Timing Analysis:
+ - Mode              : Signoff
+ - Frequency Target  : 500 MHz
+ - WNS               : >= 0
+ - TNS               : 0
+
+Physical Verification:
+ - DRC               : CLEAN
+ - LVS               : MATCHED
+ - Antenna           : CLEAN
+
+Outputs Generated:
+ - DEF               : gpu_subsystem.def
+ - GDS               : gpu_subsystem.gds
+
+Signoff completed successfully.
+============================================================

@@ -1,0 +1,22 @@
+============================================================
+ Innovus Floorplanning Log
+============================================================
+Design Name        : gpu_subsystem
+Core Utilization   : 65%
+Aspect Ratio       : 1.0
+Core Area          : 1,200,000 um^2
+
+IO Placement:
+ - Pins placed on M4
+ - Side distribution: balanced
+
+Placement Blockages:
+ - Hard blockage created at (100,100) to (300,300)
+
+Floorplan Checks:
+ - Overlaps          : NONE
+ - Aspect violations : NONE
+ - Routing channels  : CLEAN
+
+Floorplanning completed successfully.
+============================================================

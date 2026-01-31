@@ -1,0 +1,17 @@
+============================================================
+ Routing & Post-Route Optimization Log
+============================================================
+Routing Mode:
+ - Timing-driven     : ENABLED
+ - SI-driven         : ENABLED
+
+Routing Results:
+ - Total nets routed : 100%
+ - Routing DRCs      : 0
+
+Post-Route Timing:
+ - Worst Slack (WNS) : +0.05 ns
+ - Total Neg Slack   : 0.00 ns
+
+Routing completed successfully.
+============================================================
